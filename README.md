@@ -5,6 +5,6 @@
 El hecho de que los encabezados de la tabla sean esos (Categoría, Producto, Marca, Peso y Precio), 
 obedece a una posibilidad de uso: la de tener registrados los precios de artículos que estén a la venta en un comercio, por ejemplo en un almacén. <br/><br/>
 Dentro de otras funcionalidades, se podría también cambiar el nombre de esos encabezados para que la app por sí misma tenga más utilidades, así como agregar y quitar columnas. Aunque aún no está desarrollado.<br/><br/>
-![image](https://github.com/misael-alamos24/registroprecios/assets/166983296/2f898021-7cef-4f50-a2f9-177e271517ef)
+<img src="https://github.com/misael-alamos24/registroprecios/assets/166983296/2f898021-7cef-4f50-a2f9-177e271517ef" alt=""/>
 
 
