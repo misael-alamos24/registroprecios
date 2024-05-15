@@ -2,6 +2,6 @@
  <b>Idea:</b> La idea de esta propuesta fue lograr que estas simples tecnologías se comporten por sí solas de manera escalable, tal como lo hace <code>React</code>. <br/><br/>
  En lugar de escribir una tabla explícita en <code>HTML</code>, se implementaron funciones de <code>JavaScript</code>, 
  lo que a gran escala resulta en un recurso optimizador de espacio y velocidad. <br/><br/>
-El hecho de que los encabezados de la tabla sean esos (Categoría, Producto, Marca, Tamaño, Precio), 
+El hecho de que los encabezados de la tabla sean esos (Categoría, Producto, Marca, Peso y Precio), 
 obedece a una posibilidad de uso: la de tener registrados los precios de artículos que estén a la venta, por ejemplo en un almacén. <br/><br/>
 Dentro de otras funcionalidades, se podría también cambiar el nombre de esos encabezados para que la app por sí misma tenga más utilidades, así como agregar y quitar columnas. Aunque aún no está desarrollado.<br/><br/>
